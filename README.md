@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Deployed Url  - https://pokemon-search-roan.vercel.app
+
+
+## Deployed Url  - https://pokemon-search-roan.vercel.app
 
 ## Getting Started
 
