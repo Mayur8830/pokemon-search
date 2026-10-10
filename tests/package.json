@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-search-tests",
+  "private": true,
+  "description": "Tests for the Pokémon search app. Kept separate so the app's dependencies and lockfile are untouched.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "coverage": "vitest run --coverage",
+    "bugs": "SHOW_BUGS=1 vitest run"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.2",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "@vitest/coverage-v8": "^5.0.3",
+    "jsdom": "^29.1.1",
+    "vite": "^8.3.3",
+    "vitest": "^5.0.3"
+  }
+}
