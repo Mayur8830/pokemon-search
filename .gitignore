@@ -1,3 +1,10 @@
 node_modules/
 coverage/
 .next/
+
+# Secrets: real values stay on your machine or the server, never in git.
+.env
+.env.*
+!.env.example
+config.env
+*.pem
